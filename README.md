@@ -1,4 +1,4 @@
-﻿# Problem do Fazendeiro
+﻿# Problema do Fazendeiro
  
  Esta é uma atividade proposta na aula de Laboratório de Programação Web na Universidade Federal de Juiz de Fora, que consiste em criar uma página html que funcione como um jogo relacionado ao problema do fazendeiro.
  
