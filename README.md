@@ -9,6 +9,12 @@
   - O lobo não pode ficar sozinho na mesma margem que a ovelha, e a ovelha não pode ficar sozinha em uma margem com o alface.
   - Só é possível transitar um item por vez.
   - Ganha ao levar todos os itens para a margem esquerda.
+  
+ 
+## Tecnologias
+- Javascript
+- HTML5
+- CSS3
 
 A pricípio é um projeto para estudos, no entanto aceito sugestões de melhorias ou correções.
 
